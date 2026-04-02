@@ -1,0 +1,1 @@
+my first commit is completed. i learned pushing files to remote repo.
